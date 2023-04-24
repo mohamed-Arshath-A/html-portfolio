@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+hr {
+    color: grey;
+    border-style: dotted none none ;
+    border-width: 5px;
+    width: 20px;
+    
+}
+h1,h2,h3,th {
+    color:green;
+}
+
+p ,td {
+    color:rgb(105, 130, 116);
+}
